@@ -1,0 +1,216 @@
+
+body{
+    background-image: url("img/bg.jpg");
+    background-blend-mode: hue;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    width:87%;
+    margin-left:auto;
+    margin-right:auto;
+    overflow-x:hidden;
+}
+.space{
+    margin-top: 120px;
+}
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 25px;
+    border-radius: 40px;
+    margin: 0;
+    top: 0;
+}
+.one{
+    width: 600px;
+    height: 600px;
+    margin: 70px 90px 20px 0px;
+    float: left;
+    font-weight: lighter;
+    border-radius: 40%;
+
+}
+.self{
+    color:#000005;
+    font-size: 50px;
+    letter-spacing: 3px;
+    font-family: H2Fonts;
+}
+.me{
+    width: auto;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+@font-face {
+    font-family: H1Font;
+    src: url(fonts/LoveLetters.ttf);
+  }
+@font-face{
+    font-family: H3Fonts;
+    src: url(fonts/Shorelines\ Script\ Bold.otf);
+}
+@font-face{
+    font-family: H2Fonts;
+    src: url(fonts/always\ forever.ttf);
+}
+  
+  
+h1{
+    color:#40359c;
+    font-family: H1Font;
+    letter-spacing: 3px;
+    font-size:50px;
+}
+h2{
+    color: rgb(96, 102, 194);
+    font-family: H2Fonts;
+    letter-spacing: 5px;
+    font-weight: bold;               
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 20px;
+    float: right;
+    align-self: center;
+    position: fixed;
+    right:5vw;
+    top:5%;
+}   
+li a {
+    display: block;
+color:gray;
+padding: 20px;
+width: 65px;
+height: 65px;
+text-decoration: none;
+border-radius: 45%;
+}
+li a:hover {
+    background-color:#11cef0;
+}
+.icon{
+    float: right;
+    width: 65px;
+    height: 65px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.two{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+.am{
+    color:#27638b;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+hr{
+    background-color: black;
+    width: 97%;
+    height: 2px;
+    border-width: 0;
+}
+h3{
+    font-size: 40px;
+    padding: 20px 0px 10px 20px;
+    color: rgb(24, 36, 211);;
+    font-family: H3Fonts;
+    letter-spacing: 5px;
+    font-weight: bold;
+    height: 80px;
+    width: 500px;
+    border-radius: 0px 10em 0px 10em;
+}
+q{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    opacity: 40%;
+}
+.lang{
+    height: 100px;
+    width: 100px;
+    border-radius: 40%;
+}
+._lang{
+    width: 400px;
+    height: 100px;
+}
+.s{
+    padding: 20px;
+}
+.o{
+    padding: 25px;
+}
+.simg{
+    height: auto;
+    width: 100%;  
+    border-radius: 50%;
+}
+.achieve{
+    float: left;
+    margin-left: 100px;
+}
+.form{
+   font-size: 20px;
+   font-family: H3fonts;
+   font-weight: bolder;
+   
+}
+.form-body{
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    background-color: rgb(185, 233, 248);
+    border-radius: 0px 100em 0px 100em;
+}
+.con{
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(24, 36, 211);;
+    font-family: H3Fonts;
+    letter-spacing: 5px;
+}
+.text-box{
+   width: 200px;
+   height: 30px;
+}
+.conicon{
+    width: 60px;
+    height: 60px;
+}
+.context{
+    font-size: 20px;
+    color: aqua;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
+footer{
+    width: 100%;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    text-decoration: underline;
+    color: wheat;
+}
+.home{
+    overflow: hidden;
+}
+
+
+
+
+
